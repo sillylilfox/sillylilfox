@@ -16,6 +16,7 @@ I write C and Rust. Most of my work lives close to the metal — device drivers,
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-00599C?style=flat-square&logo=x86_64-assembly&logoColor=white)
 
 **Platforms**
 
