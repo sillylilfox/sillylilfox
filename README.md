@@ -1,12 +1,12 @@
-### Hi, I'm DS 👋
+### Hi, I'm DS
 
-I write C and Rust. Most of my work lives close to the metal — device drivers, kernel modules, and system internals across NixOS, Arch Linux, and FreeBSD. I'm also interested in physics and robotic machinery.
+I write C and Rust. Most of my work lives close to the metal — device drivers, kernel modules, and system internals across OpenBSD, Arch Linux, and FreeBSD.
 
 ---
 
 **What I work on**
 
-- Hobby driver development for Linux and FreeBSD — input devices and small peripheral interfaces
+- Hobby driver development for Linux and BSD systems — input devices and small peripheral interfaces
 - Low-level systems programming in C
 - Learning Rust for memory safety without leaving the systems space
 - Privately developing a custom Android ROM based on LineageOS, built for my own device
