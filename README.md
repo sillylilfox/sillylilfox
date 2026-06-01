@@ -9,7 +9,6 @@ I write C and Rust. Most of my work lives close to the metal — device drivers,
 - Hobby driver development for Linux and BSD systems — input devices and small peripheral interfaces
 - Low-level systems programming in C
 - Learning Rust for memory safety without leaving the systems space
-- Privately developing a custom Android ROM based on LineageOS, built for my own device
 
 ---
 
