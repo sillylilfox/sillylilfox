@@ -20,9 +20,9 @@ I write C and Rust. Most of my work lives close to the metal — device drivers,
 
 **Platforms**
 
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white)
+![OpenBSD](https://img.shields.io/badge/OpenBSD-FFAA00?style=flat-square&logo=openbsd&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![LineageOS](https://img.shields.io/badge/LineageOS-167C80?style=flat-square&logoColor=white)
 
