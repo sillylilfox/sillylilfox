@@ -1,6 +1,6 @@
 ### Hi, I'm DS
 
-I write C and Rust. Most of my work lives close to the metal — device drivers, kernel modules, and system internals across OpenBSD, Arch Linux, and FreeBSD.
+I write C/C++, Rust and Aseembly on multiple CPU architectures. Most of my work lives close to the metal — device drivers, kernel modules, and system internals across OpenBSD, Arch Linux, and FreeBSD.
 
 ---
 **What I work on**
