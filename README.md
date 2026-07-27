@@ -1,4 +1,4 @@
-### Hi, I'm DS
+### Hi, I'm DS (aka 0x44)
 
 I write C/C++, Rust and Aseembly on multiple CPU architectures. Most of my work lives close to the metal — device drivers, kernel modules, and system internals across OpenBSD, Arch Linux, and FreeBSD.
 
